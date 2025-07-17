@@ -1,0 +1,5 @@
+html -> bangunannya
+
+css -> memodifikasi format html nya
+
+ketik ! lalu ctrl + space abis itu enter maka langsung muncul html code nya
